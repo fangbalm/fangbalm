@@ -1,4 +1,9 @@
-### Hi there 👋
+### Yo, I'm Lucius! 👋
+
+----
+- **Pronouns:** He/Him ✨
+- I'm a Flatiron School Student, currently learning React and Redux. Right now I'm working on my capstone project before graduation, super excited! 
+
 
 <!--
 **fangbalm/fangbalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
