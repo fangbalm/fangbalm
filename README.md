@@ -1,4 +1,4 @@
-### Yo, I'm Lucius! 👋
+### Yo, I'm Lucius! 👋🏾
 
 ----
 - **Pronouns:** He/Him ✨
