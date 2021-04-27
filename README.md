@@ -2,8 +2,10 @@
 
 ----
 - **Pronouns:** He/Him ✨
-- I'm a Flatiron School Student, currently learning React and Redux. Right now I'm working on my capstone project before graduation, super excited! 
-
+- I'm a Flatiron School Graduate with a background in Computer Science, Animation, and Sociology. I've got a huge passion for game design and inclusivity! 
+- 🔭 I’m currently working on a React.js portfolio website that utilizes a Django backend. 
+- 🌱 I’m currently learning Unity 2D Engine! Expect some fun projects with this coming soon.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/luvanslyke/)! 
 
 <!--
 **fangbalm/fangbalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
