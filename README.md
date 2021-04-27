@@ -2,7 +2,7 @@
 
 ----
 - **Pronouns:** He/Him ✨
-- I'm a Flatiron School Graduate with a background in Computer Science, Animation, and Sociology. I've got a huge passion for game design and inclusivity! 
+- I'm a Flatiron School Graduate with a background in Computer Science, Design, and Sociology. I've got a huge passion for game design and inclusivity! 
 - 🔭 I’m currently working on a React.js portfolio website that utilizes a Django backend. 
 - 🌱 I’m currently learning Unity 2D Engine! Expect some fun projects with this coming soon.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/luvanslyke/)! 
