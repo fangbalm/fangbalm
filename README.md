@@ -4,14 +4,17 @@
 - **Pronouns:** He/Him ✨
 - I'm a Flatiron School Graduate with a background in Computer Science, Design, and Sociology. I've got a huge passion for game design and inclusivity! 
 - 🌱 I’m currently learning Unity 2D Engine! Expect some fun projects with this coming soon.
-- 📫 Connect with me on: 
-  - [LinkedIn](https://www.linkedin.com/in/luvanslyke/)
-  - [Medium](https://lu-vanslyke.medium.com/) 
 - ⚡ Fun facts:
   - Detroit native ~
   - I love Inuyasha! Chat with me about anime.
   - When I'm not coding, I'm probably gaming! 
     - 🎮 Currently playing: Little Nightmares 2
+- 📫 Connect with me on: 
+  - [LinkedIn](https://www.linkedin.com/in/luvanslyke/)
+  - [Medium](https://lu-vanslyke.medium.com/) 
+
+
+Thanks for stopping by! Always down to collaborate or answer any questions. 
     
 
 <!--
