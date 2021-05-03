@@ -9,7 +9,7 @@
   - [Medium](https://lu-vanslyke.medium.com/) 
 - ⚡ Fun facts:
   - Detroit native ~
-  - I love Inuyasha!! 
+  - I love Inuyasha! Chat with me about anime.
   - When I'm not coding, I'm probably gaming! 
     - 🎮 Currently playing: Little Nightmares 2
     
