@@ -8,7 +8,7 @@
   - Detroit native ~
   - I love Inuyasha! Chat with me about anime.
   - When I'm not coding, I'm probably gaming! 
-    - 🎮 Currently playing: Little Nightmares 2
+    - 🎮 **Currently playing:** Little Nightmares 2
 - 📫 Connect with me on: 
   - [LinkedIn](https://www.linkedin.com/in/luvanslyke/)
   - [Medium](https://lu-vanslyke.medium.com/) 
