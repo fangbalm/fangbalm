@@ -7,8 +7,9 @@
 ### Fun facts ⚡
   - Detroit native ~
   - I love Inuyasha! Chat with me about anime.
-  - When I'm not coding, I'm probably gaming! 
+  - When I'm not coding, I'm probably gaming or reading! 
     - 🎮 **Currently playing:** Little Nightmares 2
+    - 📚 **Currently reading:** Think Black: A Memoir
 
 
 
