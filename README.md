@@ -2,7 +2,7 @@
 
 ----
 - **Pronouns:** He/Him ✨
-- I'm a Flatiron School Graduate with a background in Computer Science, Design, and Sociology. I've got a huge passion for game design and inclusivity! 
+- I have a background in Computer Science, Design, and Sociology. I've got a huge passion for game design and inclusivity! 
 - 🌱 I’m currently learning Unity 2D Engine! Expect some fun projects with this coming soon.
 ### Fun facts ⚡
   - Detroit native ~
