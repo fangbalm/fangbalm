@@ -1,4 +1,4 @@
-### Yo, I'm Lucius! 
+### Yo, I'm Fang! 
 
 ---
 - I have a background in Computer Science, Design, and Sociology. I've got a huge passion for game design and inclusivity! 
