@@ -1,7 +1,6 @@
-### Yo, I'm Lucius! 👋🏾
+### Yo, I'm Lucius! 
 
-----
-- **Pronouns:** He/Him ✨
+---
 - I have a background in Computer Science, Design, and Sociology. I've got a huge passion for game design and inclusivity! 
 - 🌱 I’m currently learning Unity 2D Engine! Expect some fun projects with this coming soon.
 ### Fun facts ⚡
@@ -11,13 +10,7 @@
     - 🎮 **Currently playing:** Little Nightmares 2
     - 📚 **Currently reading:** Think Black: A Memoir
 
-
-
-Thanks for stopping by! Always down to collaborate or answer any questions. 
-- 📫 Connect with me on: 
-  - [LinkedIn](https://www.linkedin.com/in/luvanslyke/)
-  - [Medium](https://lu-vanslyke.medium.com/) 
-    
+Thanks for stopping by! 
 
 <!--
 **fangbalm/fangbalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
